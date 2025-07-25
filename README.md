@@ -1,7 +1,7 @@
 # ISS-tracker
 A physical ISS tracker that moves a model of the International Space Station around a globe using magnets. Uses an ESP32 to update the ISS location every 15 seconds from the Open Notify API. Here's a video about it!  (https://youtu.be/nbEe-BCNutg)
 
-This GitHub repo only serves to hold files. Please see the Instructable about it here! 
+This GitHub repo only serves to hold files. Please see the Instructable about it here! (https://www.instructables.com/DIY-International-Space-Station-Tracker/)
 
 
 
